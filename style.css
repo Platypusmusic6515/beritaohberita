@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+  }
+
+header{
+    text-align: center;
+    line-height: 10px;
+    color: white;
+    background-color: black;
+    height: 250px;
+    
+}
+
+
+
+.atas{
+    padding-top: 125px;
+}
+
+nav{
+    background-color: #1d1d1d;
+}
+
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+
+ul.nav a:hover { 
+    color: #6d6d6d !important; 
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding-left: 30px;
+    position: relative;
+    height: 100%;
+}
+
+.beritabaru{
+    background-color: rgb(250, 250, 185);
+    width: 35%;
+    height: 100%;
+}
+
+.beritabaru div{
+    margin: 20px;
+}
+
+body{
+    background-color: beige;
+}
+
+.judul{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.gambar{
+    height: 50%;
+    width: 50%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.isiberita{
+    width: 70%;
+    
+}
+
+.isicerita{
+    font-size: 22px;
+    text-align: center;
+}
+
